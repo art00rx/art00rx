@@ -1,31 +1,33 @@
 <div align="center">
 
-<a href="https://github.com/artoorsec">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&duration=4000&pause=2000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=320&height=55&lines=%3E_+artoorsec" alt="artoorsec"/>
+<a href="https://github.com/art00rx">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=4000&pause=2000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=320&height=55&lines=%3E_+art00rx" alt="art00rx"/>
 </a>
 
 <p>
-  <code>offensive security</code> &nbsp;&middot;&nbsp; <code>recon automation</code> &nbsp;&middot;&nbsp; <code>bug bounty</code>
+  <code>offensive security</code> &middot; <code>recon automation</code> &middot; <code>bug bounty</code>
 </p>
 
-<a href="https://linkedin.com/in/arturseccode"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://x.com/arturseccode"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
-<a href="https://instagram.com/arturseccode"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/artur-gabriel-silva-433a61340/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/art00rx"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://instagram.com/art00rx"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://tiktok.com/@art00rx"><img src="https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
+<a href="https://youtube.com/@art00rx"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
 <a href="mailto:arturseccode@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=artoorsec&style=flat-square&color=7AA2F7&label=views" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=art00rx&style=flat-square&color=7AA2F7&label=views" />
 
 </div>
 
 <br/>
 
 ```
-artoorsec@arch ~ $ neofetch
-                                    artoorsec
+art00rx@arch ~ $ neofetch
+                                    art00rx
    >_                               ─────────────────────────────
-                                    handle    artoorsec
+                                    handle    art00rx
                                     name      Artur
                                     location  Brazil
                                     class     Offensive Security
@@ -34,46 +36,27 @@ artoorsec@arch ~ $ neofetch
                                               Recon Automation
                                               Tool Development
 
-                                    recon     subfinder httpx dnsx katana nuclei amass
+                                    recon     subfinder httpx dnsx katana nuclei
                                     exploit   Burp Suite  Metasploit  sqlmap
                                     network   Nmap  Wireshark  Netcat  Masscan
                                     osint     Shodan  theHarvester  Maltego
 
+                                    site      art00rx.github.io
                                     motto     "if it's online, it's in scope"
 ```
 
 <div align="center">
-
-<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,kotlin,bash,linux,docker,git,vim,androidstudio&theme=dark&perline=8" />
-</a>
-
 </div>
 
 ---
 
 <div align="center">
 <h3>stats</h3>
-
-<a href="https://github.com/artoorsec">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=artoorsec&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=c9d1d9&ring_color=7AA2F7&include_all_commits=true" alt="stats"/>
-</a>&nbsp;
-<a href="https://github.com/artoorsec">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artoorsec&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7AA2F7&text_color=c9d1d9&langs_count=6" alt="langs"/>
-</a>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=art00rx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=c9d1d9&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=art00rx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7AA2F7&text_color=c9d1d9&langs_count=6" />
 <br/><br/>
-
-<a href="https://github.com/artoorsec">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artoorsec&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&sideLabels=c9d1d9&dates=8b949e" alt="streak"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/artoorsec">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artoorsec&bg_color=0d1117&color=7AA2F7&line=7AA2F7&point=c9d1d9&area=true&area_color=7AA2F7&hide_border=true" alt="activity"/>
-</a>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=art00rx&bg_color=0d1117&color=7AA2F7&line=7AA2F7&point=c9d1d9&area=true&area_color=7AA2F7&hide_border=true" />
 </div>
 
 ---
