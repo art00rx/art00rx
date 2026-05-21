@@ -53,8 +53,6 @@ art00rx@arch ~ $ neofetch
 
 <div align="center">
 <h3>stats</h3>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=art00rx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=c9d1d9&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=art00rx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7AA2F7&text_color=c9d1d9&langs_count=6" />
 <br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=art00rx&bg_color=0d1117&color=7AA2F7&line=7AA2F7&point=c9d1d9&area=true&area_color=7AA2F7&hide_border=true" />
 </div>
