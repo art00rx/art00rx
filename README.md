@@ -52,14 +52,6 @@ art00rx@arch ~ $ neofetch
 ---
 
 <div align="center">
-<h3>stats</h3>
-<br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=art00rx&bg_color=0d1117&color=7AA2F7&line=7AA2F7&point=c9d1d9&area=true&area_color=7AA2F7&hide_border=true" />
-</div>
-
----
-
-<div align="center">
 
 ```
 >_ thanks for stopping by
